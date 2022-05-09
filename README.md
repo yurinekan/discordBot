@@ -15,7 +15,38 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/jacquin>.
+# Comandos
+
+* !receita
+Busca uma receita aleatória da api de receitas
+
+* !drink
+Busca um drink aleatório da api de drinks
+
+* !cep <cep>
+Identifica cidade, bairro e rua através do cep
+
+* !email <e-mail>
+Checa se o dns é válido e se é possivelmente descartável
+
+* !par <número>
+Verifica e informa se um número é par
+
+* !oi
+Da um olá de boas vindas
+
+* !covid
+Informa quantos casos de covid confirmados há no momento
+
+* !chess
+Informa o jogador top 1 de https://chess.com, no rank diário
+
+* !conselho
+Comunicará um conselho
+
+* !café
+Manda a foto de um café
+
+* !btc
+Informa o preço atual do Bitcoin
 
