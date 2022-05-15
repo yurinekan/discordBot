@@ -21,7 +21,7 @@ defmodule Jacquin.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:nostrum, "~> 0.5.1"},
+      {:nostrum, git: "https://github.com/Kraigie/nostrum.git"},
       {:httpoison, "~> 1.8"},
       {:poison, "~> 5.0"}
     ]

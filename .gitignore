@@ -24,3 +24,11 @@ jacquin-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Provide your own token during test
+config/secret.exs
+
+# Ignore VSCode artifacts
+.elixir_ls/
+.mix_tasks
+.vscode/

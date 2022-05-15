@@ -49,4 +49,3 @@ Manda a foto de um café
 
 * !btc
 Informa o preço atual do Bitcoin
-
